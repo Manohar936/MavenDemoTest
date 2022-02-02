@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130" started-at="2022-02-02T20:19:28 IST" finished-at="2022-02-02T20:19:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130" started-at="2022-02-02T20:19:28 IST" finished-at="2022-02-02T20:19:29 IST">
+      <class name="com.qa.tests.DemoTest3">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.DemoTest3@23d2a7e8]" name="div" duration-ms="10" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.DemoTest3@23d2a7e8]" name="mul" duration-ms="2" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.DemoTest3@23d2a7e8]" name="sub" duration-ms="1" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DemoTest3@23d2a7e8]" name="sum" duration-ms="2" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.DemoTest3 -->
+      <class name="com.qa.tests.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.DemoTest@5bfbf16f]" name="div" duration-ms="4" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.DemoTest@5bfbf16f]" name="mul" duration-ms="3" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.DemoTest@5bfbf16f]" name="sub" duration-ms="2" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DemoTest@5bfbf16f]" name="sum" duration-ms="4" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.DemoTest -->
+      <class name="com.qa.tests.DemoTest2">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.DemoTest2@25af5db5]" name="div" duration-ms="5" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.tests.DemoTest2@25af5db5]" name="mul" duration-ms="2" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.tests.DemoTest2@25af5db5]" name="sub" duration-ms="2" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DemoTest2@25af5db5]" name="sum" duration-ms="2" started-at="2022-02-02T20:19:29 IST" finished-at="2022-02-02T20:19:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.DemoTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
